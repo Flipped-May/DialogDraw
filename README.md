@@ -1,4 +1,4 @@
 # DialogDraw
 Official GitHub repository of DialogDraw: Image Generation and Editing System based on Multi-Turn Dialogue.
 
-The data is under inspection for safety concerns. We will release the DialogGen and its corresponding data once it is finished.
+The code and data are undergoing safety review by NetEase Inc. We will release the DialogGen model and its corresponding dataset once the review is completed.
